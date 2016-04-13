@@ -1,0 +1,25 @@
+#background{
+	margin: auto;
+	position: absolute;  
+	top: 0; left: 0; bottom: 0; right: 0;  
+	overflow:hidden; 
+	width: 400px;
+	height: 200px;
+	background-color: #CCC;
+}
+.qurant{
+	background-color: #FC0;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	position: relative;
+}
+#lefttop{
+	top: -50px;
+	left: -50px;
+}
+#rightbottom{
+	float: right;
+	bottom: -50px;
+	right: -50px;
+}
